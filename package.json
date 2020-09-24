@@ -1,0 +1,18 @@
+{
+  "name": "practical",
+  "version": "1.0.0",
+  "description": "Assessment for Swimlane ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Trenton May",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress-localstorage-commands": "^1.2.2",
+    "jest": "^26.4.2"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
